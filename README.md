@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Vishal Tyagi
 
-<!--
-**Vishaltyagi73/Vishaltyagi73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Python Developer  
+📊 Interested in Data Analysis & Backend Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python
+- OOP
+- File Handling
+- Regex
+- Git & GitHub
+
+---
+
+## 📌 Projects
+🔹 Log File Analyzer (Core Python)  
+Parses server logs and generates summary reports.
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/vishal-tyagi-b0616220a
+
