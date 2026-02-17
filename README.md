@@ -8,7 +8,7 @@
 - Passionate about Python programming and data analysis
 - Strong understanding of OOP and file handling
 - Interested in extracting insights from data
-- 
+  
 ## 🛠️ Technical Skills
 ### 💻 Programming Languages
 - Python
