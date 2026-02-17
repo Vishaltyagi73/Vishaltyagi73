@@ -1,23 +1,64 @@
-# Hi 👋, I'm Vishal Tyagi
+# 👋 Hi, I'm Vishal Tyagi
 
 🎓 Computer Science Student  
-💻 Python Developer  
-📊 Interested in Data Analysis & Backend Development  
+💻 Python Developer | 📊 Aspiring Data Analyst  
+🚀 Interested in Data Analytics & Backend Development 
 
----
-
-## 🚀 Skills
+## 🚀 About Me
+- Passionate about Python programming and data analysis
+- Strong understanding of OOP and file handling
+- Interested in extracting insights from data
+- 
+## 🛠️ Technical Skills
+### 💻 Programming Languages
 - Python
-- OOP
+- SQL (Learning)
+
+### 📊 Data Analytics
+- Data Cleaning
+- Data Visualization
+- Basic Statistical Analysis
+- Working with CSV / Structured Data
+
+### 📚 Core Concepts
+- Object-Oriented Programming (OOP)
 - File Handling
-- Regex
-- Git & GitHub
+- Regular Expressions (Regex)
+- 
+### 📦 Python Libraries
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn (Basic)
+
+### 🗄️ Database
+- MySQL (Basics)
+
+### 🔧 Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- MS Excel
+
+
+
+## 📌 Featured Project
+
+### 🔹 Log File Analyzer (Core Python)
+A Python-based log file analyzer that:
+- Parses server log files
+- Filters entries using Regex
+- Generates structured summary reports
+- Extracts useful insights from raw log data
 
 ---
 
-## 📌 Projects
-🔹 Log File Analyzer (Core Python)  
-Parses server logs and generates summary reports.
+## 📈 Currently Learning
+- Data Structures & Algorithms
+- Advanced Python
+- Pandas & Data Visualization
+- SQL (for Data Analytics)
 
 ---
 
